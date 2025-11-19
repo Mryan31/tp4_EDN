@@ -120,15 +120,6 @@ tp4_output/graficos/
 
 A ordem estimada numérica é aproximadamente **2**, como esperado do método de 5 pontos.
 
----
-
-## 📚 Relatório em LaTeX
-
-A documentação completa (com gráficos, teoria e código) está em:
-
-```
-relatorio/TP4_FINAL.tex
-```
 
 ---
 
